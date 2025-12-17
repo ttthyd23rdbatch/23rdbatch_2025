@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CREATE DATABASE INSTAGRAM_DB;
 
 CREATE TABLE USERS (
@@ -155,3 +156,6 @@ WHERE is_active = true
 AND created_at >= DATE '2025-01-01';
 
 
+=======
+-- PL/SQL practice for 14-12-2025
+>>>>>>> 2c8f74ff4a28405b418a89748e0928791107a2b0
